@@ -3,8 +3,7 @@
 This is a timer app made with flutter.
 Press the Start button to start the 30-minute timer, and for every 30-minute passing, the Pomodors at the bottom go up by 1. You can reset the Pomodors with the watch icon.
 
-<img src="screenshots/start.png" width="500">
-<img src="screenshots/pomodors.png" width="500">
+<img src="screenshots/start_pomodors.png" width="500">
 
 ## Getting Started
 
